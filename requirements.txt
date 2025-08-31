@@ -1,0 +1,7 @@
+
+confluent-kafka>=2.1.1
+faker>=20.1.0
+python-dotenv
+
+
+python-dateutil==2.8.2

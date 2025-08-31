@@ -1,0 +1,150 @@
+{
+    "products": [
+      {
+        "id": 101,
+        "name": "Wireless Noise-Cancelling Headphones",
+        "category": "electronics",
+        "subcategory": "audio",
+        "price": 249.99,
+        "brand": "SonicWave"
+      },
+      {
+        "id": 102,
+        "name": "Ultra HD 4K Smart TV 55\"",
+        "category": "electronics",
+        "subcategory": "tv",
+        "price": 599.99,
+        "brand": "VisionPlus"
+      },
+      {
+        "id": 103,
+        "name": "Bluetooth Portable Speaker",
+        "category": "electronics",
+        "subcategory": "audio",
+        "price": 79.99,
+        "brand": "SoundBlast"
+      },
+      {
+        "id": 104,
+        "name": "Gaming Mechanical Keyboard",
+        "category": "electronics",
+        "subcategory": "computers",
+        "price": 129.99,
+        "brand": "ClickyTech"
+      },
+      {
+        "id": 105,
+        "name": "Smartphone 128GB",
+        "category": "electronics",
+        "subcategory": "mobile",
+        "price": 899.99,
+        "brand": "FruitPhone"
+      },
+      {
+        "id": 201,
+        "name": "Men's Slim Fit Jeans",
+        "category": "fashion",
+        "subcategory": "menswear",
+        "price": 59.99,
+        "brand": "UrbanThreads"
+      },
+      {
+        "id": 202,
+        "name": "Women's Winter Parka",
+        "category": "fashion",
+        "subcategory": "womenswear",
+        "price": 199.99,
+        "brand": "NorthStyle"
+      },
+      {
+        "id": 203,
+        "name": "Leather Running Shoes",
+        "category": "fashion",
+        "subcategory": "footwear",
+        "price": 89.99,
+        "brand": "SwiftRun"
+      },
+      {
+        "id": 204,
+        "name": "Designer Sunglasses",
+        "category": "fashion",
+        "subcategory": "accessories",
+        "price": 159.99,
+        "brand": "SunShades"
+      },
+      {
+        "id": 205,
+        "name": "Silk Scarf",
+        "category": "fashion",
+        "subcategory": "accessories",
+        "price": 45.99,
+        "brand": "ElegantTouch"
+      },
+      {
+        "id": 301,
+        "name": "Programmable Coffee Maker",
+        "category": "home",
+        "subcategory": "kitchen",
+        "price": 89.99,
+        "brand": "BrewMaster"
+      },
+      {
+        "id": 302,
+        "name": "Non-Stick Cookware Set",
+        "category": "home",
+        "subcategory": "kitchen",
+        "price": 129.99,
+        "brand": "ChefSelect"
+      },
+      {
+        "id": 303,
+        "name": "Robot Vacuum Cleaner",
+        "category": "home",
+        "subcategory": "appliances",
+        "price": 299.99,
+        "brand": "CleanBot"
+      },
+      {
+        "id": 304,
+        "name": "Memory Foam Mattress",
+        "category": "home",
+        "subcategory": "furniture",
+        "price": 499.99,
+        "brand": "SleepWell"
+      },
+      {
+        "id": 305,
+        "name": "Yoga Mat",
+        "category": "home",
+        "subcategory": "fitness",
+        "price": 29.99,
+        "brand": "ZenLife"
+      },
+      {
+        "id": 401,
+        "name": "Python Data Science Handbook",
+        "category": "books",
+        "subcategory": "technology",
+        "price": 44.99,
+        "brand": "O'Reilly"
+      },
+      {
+        "id": 402,
+        "name": "Bestselling Fiction Novel",
+        "category": "books",
+        "subcategory": "fiction",
+        "price": 14.99,
+        "brand": "PageTurner"
+      },
+      {
+        "id": 403,
+        "name": "World History Encyclopedia",
+        "category": "books",
+        "subcategory": "non-fiction",
+        "price": 39.99,
+        "brand": "KnowItAll"
+      }
+    ]
+  }
+
+
